@@ -12,7 +12,7 @@
   ![image](https://github.com/user-attachments/assets/c58d051a-adb5-4230-a92d-0dba4aa0f71f)
 # Nếu đã đăng nhập tài khoản trên thiết bị ròi thì sẽ hiện như này 
   ![image](https://github.com/user-attachments/assets/41bdbafd-ac90-4023-a63d-f78100445b16)
-# Nhấn vào nút chấp nhận sẽ chuyển đến trang Darshboard 
+# Nhấn vào nút Authorize sẽ chuyển đến trang Dashboard 
   ![image](https://github.com/user-attachments/assets/fbfb9ece-a7f4-4725-96a4-7be2847d07e8)
 
 
