@@ -4,7 +4,7 @@
   ![image](https://github.com/user-attachments/assets/fcb228ec-b73a-4339-8365-d2ea7f8f7d0c)
 # Truy cập trang web qua URL
   http://localhost:8080
-# Sau khi truy cạp thành công
+# Sau khi truy cập thành công
   ![image](https://github.com/user-attachments/assets/23c4530b-26d1-4ac1-805e-f17b5d2cafad)
 # Đăng nhập với Github
   Tại trang đăng nhập bên dưới nút đăng nhập chọn mục Login with Github
